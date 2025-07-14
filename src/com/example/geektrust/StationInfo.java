@@ -1,4 +1,4 @@
-package com.train;
+package com.example.geektrust;
 
 import java.util.HashMap;
 import java.util.Map;
