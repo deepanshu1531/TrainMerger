@@ -1,0 +1,15 @@
+# Maven target directory
+/target/
+
+# Eclipse/STS metadata
+.classpath
+.project
+.settings/
+
+# IDEs
+.idea/
+*.iml
+
+# Logs and temp
+*.log
+*.tmp
